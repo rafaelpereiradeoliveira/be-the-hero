@@ -1,0 +1,18 @@
+Aplicação Be the Hero
+
+Juntar pessoas que queiram ajudar ongs
+
+Back-end: o que o usuário não encherga
+ -Regras de negócio
+ -Conexão DB
+ -Envio de e-mail
+ -Comunicação com webservices
+ -Autenticação do usuário
+ -Criptografia e segurança
+
+API
+JSON --> Front-end web, mobile serviços externos
+
+	JSON: estrutura de dados
+
+
